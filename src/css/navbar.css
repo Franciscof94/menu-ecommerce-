@@ -1,0 +1,32 @@
+.navBar{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(240, 240, 240);
+}
+
+nav{
+
+}
+
+nav ul{
+    list-style: none;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav ul li{
+    display: inline-block;
+}
+
+nav a{
+    color: #1c3144;
+    text-decoration: none;
+}
+
+
+
+
+.logo{
+    width: 70px;
+}
